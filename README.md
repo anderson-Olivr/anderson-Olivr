@@ -4,11 +4,10 @@
 
 ---
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Coluna do texto -->
     <td valign="top">
-### 👨‍💻 Sobre mim
+Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**  
 - ⚡ Formação técnica em **Eletrônica** pela **ETEC**  
@@ -17,26 +16,15 @@
 - 🎮 Apaixonado por programar **jogos, sites e automatização de processos**  
 
 <p align="left">
-  <a href="https://www.instagram.com/anderson_olivr/" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Instagram" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      width="40" 
-      height="40"
-    />
-  </a>
+  ![Instagram](https://img.shields.io/badge/Instagram-@anderson_olivr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </p>
-    </td>
-
-    <!-- Coluna do GIF -->
     <td valign="top">
-      <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
+      <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" 
            alt="GIF divertido" 
            width="150"/>
     </td>
-  </tr>
 </table>
+
 
 ---
 
