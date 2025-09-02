@@ -4,39 +4,39 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<table>
+  <tr>
+    <!-- Coluna do texto -->
+    <td valign="top">
+### 👨‍💻 Sobre mim
 
-  <!-- Texto à esquerda -->
-  <div>
-    ### 👨‍💻 Sobre mim
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**  
+- ⚡ Formação técnica em **Eletrônica** pela **ETEC**  
+- 🎨 Designer gráfico amador  
+- 💻 Buscando me profissionalizar cada vez mais na área de **tecnologia**  
+- 🎮 Apaixonado por programar **jogos, sites e automatização de processos**  
 
-    - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**  
-    - ⚡ Formação técnica em **Eletrônica** pela **ETEC**  
-    - 🎨 Designer gráfico amador  
-    - 💻 Buscando me profissionalizar cada vez mais na área de **tecnologia**  
-    - 🎮 Apaixonado por programar **jogos, sites e automatização de processos**  
+<p align="left">
+  <a href="https://www.instagram.com/anderson_olivr/" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Instagram" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      width="40" 
+      height="40"
+    />
+  </a>
+</p>
+    </td>
 
-    <p align="left">
-      <a href="https://www.instagram.com/anderson_olivr/" target="_blank">
-        <img 
-          alt="Instagram" 
-          title="Instagram" 
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-          width="40" 
-          height="40"
-        />
-      </a>
-    </p>
-  </div>
-
-  <!-- GIF à direita -->
-  <div>
-    <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
-         alt="GIF divertido" 
-         width="150"/>
-  </div>
-
-</div>
+    <!-- Coluna do GIF -->
+    <td valign="top">
+      <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
+           alt="GIF divertido" 
+           width="150"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
