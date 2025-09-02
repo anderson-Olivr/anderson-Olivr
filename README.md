@@ -15,12 +15,18 @@ Sobre mim
 - 💻 Buscando me profissionalizar cada vez mais na área de **tecnologia**  
 - 🎮 Apaixonado por programar **jogos, sites e automatização de processos**  
 
-  ![Instagram](https://img.shields.io/badge/Instagram-@anderson_olivr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </td>
-<td valign="top">
+<td valign="top" align="center">
   <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" 
        alt="GIF divertido" 
        width="150"/>
+
+  <br/>
+
+  <a href="https://www.instagram.com/anderson_olivr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@anderson_olivr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram Badge"/>
+  </a>
 </td>
 </table>
 
