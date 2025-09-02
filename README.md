@@ -12,8 +12,8 @@ Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**  
 - ⚡ Formação técnica em **Eletrônica** pela **ETEC**  
 - 🎨 Designer gráfico amador  
-- 💻 Buscando me profissionalizar cada vez mais na área de **tecnologia**  
-- 🎮 Apaixonado por programar **jogos, sites e automatização de processos**  
+- 💻 Busco me profissionalizar cada vez mais na área de **tecnologia**  
+- 🎮 Gosto de programar **jogos, sites e automatização de processos**  
 
 </td>
 <td valign="top" align="center">
